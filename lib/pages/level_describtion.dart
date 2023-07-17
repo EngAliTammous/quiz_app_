@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:multi_quiz_s_t_tt9/pages/true_false_q_screen.dart';
-
 import '../constants.dart';
 import '../widgets/my_outline_btn.dart';
 
@@ -10,7 +8,7 @@ class LevelDescription extends StatelessWidget {
   final String subTitle ;
   final String imageSource ;
   final List<Color> color ;
-final String routeName ;
+  final String routeName ;
 
 
   @override
